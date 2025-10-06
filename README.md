@@ -22,7 +22,7 @@ Anyways, about me
 
 - Languages used till now - 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=Standby-Coder&layout=compact&size_weight=0&count_weight=1&langs_count=20&hide=Jupyter%20Notebook&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=Standby-Coder&layout=compact&size_weight=0&count_weight=1&langs_count=100&hide=Jupyter%20Notebook&hide_progress=true)
 
 
 Ways to contact me - 
